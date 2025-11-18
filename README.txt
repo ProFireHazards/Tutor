@@ -1,0 +1,1 @@
+Little AI that re-explains work in a digestible manner, for when you need long articles and such summarized for efficiency at a deadline.
